@@ -643,3 +643,5 @@ make clean && make boot project=hasura-todos
 ## Work In Progress
 
 - `make py env=xxx` should be renamed into `make py flags="-e FOO=123 -v $(CURRDIR):/foo"` to so pass multiple arguments to a script
+
+## Test modifica
